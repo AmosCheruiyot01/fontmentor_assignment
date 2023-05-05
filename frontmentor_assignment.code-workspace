@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "intro-section-with-dropdown-navigation-main/images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "frontmentor_assignment"
+  }
+}
